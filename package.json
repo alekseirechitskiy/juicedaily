@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "dotdotdot-js": "^4.1.0",
+    "react-dotdotdot": "^1.3.1"
   }
 }

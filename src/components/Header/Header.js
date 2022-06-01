@@ -4,9 +4,13 @@ import SearchButton from './SearchButton';
 import Logo from './Logo';
 import Menu from './Menu';
 
+import { openMenu } from '../Functions/menuFunctions';
 
-function Header() {
-    const HeaderBody = styled.header`
+
+// === Styled components --- START
+
+const HeaderBody = styled.header`
+        position: relative;
         width: 100%;
         height: 90px;
         padding-left: 50px;
@@ -24,7 +28,7 @@ function Header() {
         }
     `;
 
-    const MenuButton = styled.button`
+const MenuButton = styled.button`
         width: 90px;
         height: 90px;
         display: none;
@@ -41,7 +45,7 @@ function Header() {
             background-color: rgb(78,154,169);
             margin: 10px auto;
             border-radius: 5px;
-            
+
             @media (max-width: 767px){
                 margin: 7px auto;
             }
@@ -58,10 +62,10 @@ function Header() {
         }
     `;
 
-    const openMenu = () => {
-        document.querySelector('#menuList').style.transform = 'translateY(0)';
-    }
+// === Styled components --- END
 
+
+function Header() {
     return (
         <HeaderBody>
             <Logo />
