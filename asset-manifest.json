@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/juicedaily/static/css/main.3e74b40b.css",
+    "main.js": "/juicedaily/static/js/main.8a96a34c.js",
+    "static/media/Hero.jpg": "/juicedaily/static/media/Hero.a4c0c8571ea903a133d9.jpg",
+    "static/media/card-bg.jpg": "/juicedaily/static/media/card-bg.7398ab3014de1ff6ea2c.jpg",
+    "static/media/card-bg-small.jpg": "/juicedaily/static/media/card-bg-small.a92c83a7a4b3e48178d2.jpg",
+    "static/media/logo.svg": "/juicedaily/static/media/logo.ebfb2d27fb55a80ec2adb560780ba04b.svg",
+    "index.html": "/juicedaily/index.html",
+    "static/media/bannerArrow.svg": "/juicedaily/static/media/bannerArrow.f7f5f809aa6d1a626f09397b5191a9ea.svg",
+    "static/media/popularArrow.svg": "/juicedaily/static/media/popularArrow.45be798bb29f2f878dec3fcfaf3c7891.svg",
+    "static/media/play.svg": "/juicedaily/static/media/play.55f66d80eddb99673842fa8c168302ac.svg",
+    "static/media/search.svg": "/juicedaily/static/media/search.ed56a59a01f68533f8db9ec7d26fde6d.svg",
+    "main.3e74b40b.css.map": "/juicedaily/static/css/main.3e74b40b.css.map",
+    "main.8a96a34c.js.map": "/juicedaily/static/js/main.8a96a34c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e74b40b.css",
+    "static/js/main.8a96a34c.js"
+  ]
+}
